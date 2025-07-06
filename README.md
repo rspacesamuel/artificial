@@ -2,11 +2,17 @@
 interview-chat.py
 
 RAG -> OpenAI API
+
 Context Chunking -> Langchain
+
 Vector DB -> ChromaDB
+
 Embedding model -> OpenAI
+
 Chat interface -> gradio
+
 LLM -> GPT-4o
+
 
 The chatbot acts as a job candidate, where a user can interview (ask questions) about the candidate.
 I prompted 4o to be creative if context isn't enough but asked it to add "Alright" when it's trying to be creative.
